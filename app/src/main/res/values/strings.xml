@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageRotation</string>
+    <string name="user_canceled">User Cancelled</string>
+    <string name="user_did_not_grant_permissions">User Did Not Grant Permission</string>
+    <string name="user_did_not_grant_permissions_never_ask">Never Ask user Did Not Ask Permission</string>
+</resources>
